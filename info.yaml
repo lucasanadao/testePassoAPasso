@@ -13,41 +13,41 @@ project:
   # Your top module name must start with "tt_um_". Make it unique by including your github username:
   top_module:  "tt_um_teste_final"
   
-  # List your project's source files here. Source files must be in ./src and you must list each source file separately, one per line:
+ # List your project's source files here. Source files must be in ./src and you must list each source file separately, one per line:
   source_files:        
     - "project.v"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "asdasd"
-  ui[1]: "asdasd"
-  ui[2]: "asdasd"
-  ui[3]: "asdasd"
-  ui[4]: "asdasd"
-  ui[5]: "asdasd"
-  ui[6]: "asdasd"
-  ui[7]: "asdasd"
+  ui[0]: "Entrada"
+  ui[1]: "Entrada"
+  ui[2]: "Entrada"
+  ui[3]: "Entrada"
+  ui[4]: "Entrada"
+  ui[5]: "Entrada"
+  ui[6]: "Entrada"
+  ui[7]: "Entrada"
 
   # Outputs
-  uo[0]: "asdasd"
-  uo[1]: "asdasd"
-  uo[2]: "asdasd"
-  uo[3]: "asdasd"
-  uo[4]: "asdasd"
-  uo[5]: "asdasd"
-  uo[6]: "asdasd"
-  uo[7]: "asdasd"
+  uo[0]: "Saida"
+  uo[1]: "Saida"
+  uo[2]: "Saida"
+  uo[3]: "Saida"
+  uo[4]: "Saida"
+  uo[5]: "Saida"
+  uo[6]: "Saida"
+  uo[7]: "Saida"
 
   # Bidirectional pins
-  uio[0]: "asdasd"
-  uio[1]: "asdasd"
-  uio[2]: "asdasd"
-  uio[3]: "asdasd"
-  uio[4]: "asdasd"
-  uio[5]: "asdasd"
-  uio[6]: "asdasd"
-  uio[7]: "asdasd"
+  uio[0]: "Pino Bidirecional"
+  uio[1]: "Pino Bidirecional"
+  uio[2]: "Pino Bidirecional"
+  uio[3]: "Pino Bidirecional"
+  uio[4]: "Pino Bidirecional"
+  uio[5]: "Pino Bidirecional"
+  uio[6]: "Pino Bidirecional"
+  uio[7]: "Pino Bidirecional"
 
 # Do not change!
 yaml_version: 6
